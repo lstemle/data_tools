@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+example.R
+example_tagtest.R
+locate_example_tagtest.R
